@@ -1,1 +1,2 @@
-# CarpetaClasePython1
+# Carpeta curso Python
+
